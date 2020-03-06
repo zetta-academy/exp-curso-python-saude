@@ -5,8 +5,9 @@ Repositório do material do curso de Python ministrado e criado por Caio Salgado
 
 Você precisará de uma conta gratuita do google para usar os notebooks via [Google Collaboratory](https://colab.research.google.com).
 
-1. Colab - Conheça o Colab [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gestão_de_Saúde_01_Visão_geral_sobre_o_Colab_do_Google.ipynb)
+1. Colab - Conheça o Colab: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gestão_de_Saúde_01_Visão_geral_sobre_o_Colab_do_Google.ipynb)
+
 2. Python
-    a. Tipos de dados [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gestão_de_Saúde_02_python_tipos_de_dados.ipynb).
-    b. Operadores matemáticos e lógicos. (Em breve)
-    c. ...
+    1. Tipos de dados: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gestão_de_Saúde_02_python_tipos_de_dados.ipynb).
+    2. Operadores matemáticos e lógicos. (Em breve)
+    3. ...
