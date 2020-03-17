@@ -16,7 +16,11 @@ Você precisará de uma conta gratuita do google para usar os notebooks via [Goo
     3. ...
 
 # Autores
+
 Caio Salgado <!-- inserir linkdn -->
+
 Henrique Gomide <!-- inserir linkdn -->
+
 Ana Flávia Santos <!-- inserir linkdn -->
+
 Gabriel Kakizaki <!-- inserir linkdn -->
