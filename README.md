@@ -9,7 +9,7 @@ Você precisará de uma conta gratuita do google para usar os notebooks via [Goo
 
 2. Python
     1. Tipos de dados: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gestão_de_Saúde_02_python_tipos_de_dados.ipynb).
-    2. Operadores matemáticos e lógicos. (Em breve)
+    2. Operadores matemáticos e lógicos. [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para__Gest%C3%A3o_de_Sa%C3%BAde_02_python_tipos_de_operadores.ipynb)
     3. ...
 
 # Autores
