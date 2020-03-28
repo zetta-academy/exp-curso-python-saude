@@ -1,11 +1,9 @@
 # README
 Data from this repository belong to Zetta Health Analytics.
 
-# WHAT IS THIS ABOUT?
-
 You find one dataset in the data folder:
 
-* _'sample__data.csv'_ comprises a claims data of 959 workers from a health company in Brazil. Claims data cover a 12-month before and 6-month after a self-reported health assessment risk.
+* _'sample__data.csv'_ comprises a claims data of a sample of 300 workers from a health company in Brazil. Claims data cover a 12-month before and 6-month after a self-reported health assessment risk.
 
 
 # DATASET
