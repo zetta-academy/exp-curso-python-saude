@@ -6,14 +6,17 @@ Repositório do material do curso de Python ministrado e criado por Caio Salgado
 Você precisará de uma conta gratuita do google para usar os notebooks via [Google Collaboratory](https://colab.research.google.com).
 
 1. Colab
-    1. Conheça o Colab: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gestão_de_Saúde_01_Visão_geral_sobre_o_Colab_do_Google.ipynb)    
-    2. Como atualizar e instalar bibliotecas no Colab: [link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gest%C3%A3o_de_Sa%C3%BAde_01_Vis%C3%A3o_geral_sobre_o_Colab_do_Google_Bibliotecas.ipynb)
-    3. Guia rápido de Markdown: [link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gest%C3%A3o_de_Sa%C3%BAde_01_Vis%C3%A3o_geral_sobre_o_Colab_do_Google_Markdown.ipynb)
+    1. Conheça o Colab: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_01_colab_visao_geral_01.ipynb)
+    2. Guia rápido de Markdown: [link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_01_colab_visao_geral_02_markdown.ipynb)
+    3. Como atualizar e instalar bibliotecas no Colab: [link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_01_colab_visao_geral_03_bibliotecas.ipynb)
+    
 
-2. Python
-    1. Tipos de dados: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para_Gestão_de_Saúde_02_python_tipos_de_dados.ipynb).
-    2. Operadores matemáticos e lógicos. [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Curso_Python_para__Gest%C3%A3o_de_Sa%C3%BAde_02_python_tipos_de_operadores.ipynb)
-    3. ...
+2. Python 
+    1. Tipos de dados: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_loops_01.ipynb)
+    2. Operadores matemáticos e lógicos: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_tipos_de_operadores_03.ipynb)
+    3. Loops: [Link](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_loops_01.ipynb)
+
+3. [Análise exploratória de dados](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_03_python_analise_exploratoria_de_dados.ipynb)
 
 # Autores
 
