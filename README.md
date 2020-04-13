@@ -12,7 +12,7 @@ Você precisará de uma conta gratuita do google para usar os notebooks via [Goo
     
 
 2. Python 
-    1. [Tipos de dados](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_loops_01.ipynb)
+    1. [Tipos de dados](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_tipos_de_dados_02.ipynb)
     2. [Operadores matemáticos e lógicos](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_tipos_de_operadores_03.ipynb)
     3. [Loops](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_loops_01.ipynb)
     4. [Funções](https://github.com/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_funcoes_04.ipynb)
