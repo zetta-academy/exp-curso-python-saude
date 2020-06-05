@@ -2,7 +2,7 @@
 
 ## Curso - Introdução ao Python para Análise de Dados em Saúde
 
-Repositório do material do curso de Python ministrado e criado por Caio Salgado e adaptado para internet por Henrique Gomide.
+Repositório do material do curso de Python oferecido pela Zetta Exponential e Universidade Federal de Viçosa.
 
 Você precisará de uma conta gratuita do google para usar os notebooks via [Google Collaboratory](https://colab.research.google.com).
 
