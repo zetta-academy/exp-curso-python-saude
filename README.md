@@ -17,20 +17,20 @@ Exercícios - [Tempo estimado: 2h]
 3. [Como atualizar e instalar bibliotecas no Colab](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_01_colab_visao_geral_03_bibliotecas.ipynb): Tempo estimado 30 minutos.
     
 
-### [2 semana] Introdução ao Python - tipos de de dados e operadores
+### [2 semana] Introdução ao Python - Tipos de dados e operadores
 
-Exercícios - [Tempo estimado: 2h50min]
+Exercícios - [Tempo estimado: 2h30min]
 
-4. [Tipos de dados](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_tipos_de_dados_02.ipynb): Tempo estimado: 60 a 90 minutos.
-5. [Operadores matemáticos e lógicos](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_tipos_de_operadores_03.ipynb): Tempo estimado: 45 a 60 minutos.
+4. [Tipos de dados](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_02_tipos_de_dados.ipynb): Tempo estimado: 60 a 90 minutos.
+5. [Operadores matemáticos e lógicos](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_03_tipos_de_operadores.ipynb): Tempo estimado: 45 a 60 minutos.
 
 
 ### [3 semana] Introdução ao Python - Loops, controle de fluxo e funções 
 
-Exercícios - [Tempo estimado: 2h]
+Exercícios - [Tempo estimado: 2h15min]
 
-6. [Loops](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_loops_01.ipynb): Tempo estimado: 60 a 75 minutos.
-7. [Funções](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_funcoes_04.ipynb): Tempo estimado: 60  minutos.
+6. [Loops](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_01_loops.ipynb): Tempo estimado: 60 a 75 minutos.
+7. [Funções](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_04_funcoes.ipynb): Tempo estimado: 60  minutos.
 
 
 ### [4 semana] Análise exploratória e Modelos Lineares Generalizados com Python
@@ -42,7 +42,7 @@ Exercícios - [Tempo estimado: 2h]
 
 ### [5 semana] Projeto final - Árvores de decisão
 
-9. [Notebook para projeto final](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_03_python_arvore_regressao.ipynb)
+9. [Notebook para projeto final](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_03_python_arvore_regressao_projeto_final.ipynb)
 
 
 
