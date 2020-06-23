@@ -1,6 +1,6 @@
 ![Logotipo Zetta](https://raw.githubusercontent.com/zetta-health/exp-curso-python-saude/master/assets/zetta-exp-logo.jpg)
 
-## Curso - Introdução ao Python para Análise de Dados em Saúde
+## Curso - Introdução ao Python para Gestão da Saúde
 
 Repositório do material do curso de Python oferecido pela Zetta Exponential e Universidade Federal de Viçosa.
 
