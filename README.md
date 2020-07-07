@@ -48,10 +48,10 @@ Exercícios - [Tempo estimado: 2h]
 
 # Autores
 
-Caio Salgado
+[Caio Salgado](https://www.linkedin.com/in/caio-salgado-b5758312/)
 
-Henrique Gomide
+[Henrique Gomide](https://www.linkedin.com/in/hpgomide/)
 
-Ana Flávia Santos
+[Ana Flávia Souza](https://www.linkedin.com/in/ana-fl%C3%A1via-souza-2b06151a5/)
 
-Gabriel Kakizaki
+[Gabriel Kakizaki](https://www.linkedin.com/in/gabriel-kakizaki-25b6311a5/)
