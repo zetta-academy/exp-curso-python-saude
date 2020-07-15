@@ -19,7 +19,7 @@ Exercícios - [Tempo estimado: 2h]
 
 ### [2 semana] Introdução ao Python - Tipos de dados e operadores
 
-#### [Link para Colab da aula síncrona](https://github.com/zetta-health/exp-curso-criar-algoritmos-saude/blob/master/Aula_02_webinario.ipynb)
+#### [Link para Colab da aula síncrona](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Aula_02_webinario.ipynb)
 
 Exercícios - [Tempo estimado: 2h30min]
 
