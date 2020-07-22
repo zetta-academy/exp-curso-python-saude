@@ -27,7 +27,11 @@ Exercícios - [Tempo estimado: 2h30min]
 5. [Operadores matemáticos e lógicos](https://colab.research.google.com/github/zetta-health/exp-curso-python-saude/blob/master/PySaude_02_python_03_tipos_de_operadores.ipynb): Tempo estimado: 45 a 60 minutos.
 
 
-### [3 semana] Introdução ao Python - Loops, estruturas de controle e funções 
+### [3 semana] Introdução ao Python - Loops, estruturas de controle e funções
+
+#### [Link para Colab da aula síncrona](https://github.com/zetta-health/exp-curso-python-saude/blob/master/Aula_03_webinario.ipynb)
+
+
 
 Exercícios - [Tempo estimado: 2h15min]
 
